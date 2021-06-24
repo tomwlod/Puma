@@ -27,7 +27,7 @@ public extension Logger {
 
     func logo() {
         log(String(repeating: "=", count: 60).foreground.Cyan)
-        let text = ConsoleArt.pumaLogoAscii
+        let text = ConsoleArt.cauraTitleAscii
         log(text.style.Bold.foreground.Yellow.style.Bold)
     }
     
