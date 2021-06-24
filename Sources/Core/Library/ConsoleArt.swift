@@ -54,4 +54,22 @@ public struct ConsoleArt {
                     P PPPP            `YPPPPPP' ,P'         `         `P.`PPPP. .P'       `P. `PPPPP.
 
 """
+
+
+   public static let cauraTitleAscii = """
+   
+                       :shhdhy+`           `hhyhhy`           `hhh`     +hh+         -mmmmmmdho:              -hhyhho    
+                     .dMMhssyNMN+          /MMsdMM/           `MMM`     sMMy         :MMN+++shMMm-            yMMoMMM`   
+                     dMM+    `mMM:         dMM:+MMh           `MMM`     sMMy         :MMN     .NMm`          `MMN`hMMo   
+                     MMN`     ````        .MMm `NMM.          `MMM`     sMMy         :MMN      hMM.          +MMs :MMm   
+                     MMm                  sMMo  hMMo          `MMM`     sMMy         :MMN     `NMm`          dMM- `NMM-  
+                     MMm                 `NMM.  :MMm          `MMM`     sMMy         :MMN////smMN:          -MMm   sMMy  
+                     MMm                 /MMd    NMM/         `MMM`     sMMy         :MMMMMMMMms.           sMMo   -MMM` 
+                     MMm                 hMM/    oMMh         `MMM`     sMMy         :MMN``:NMN-            NMM.    dMM+ 
+                     MMN                .MMN`    -MMM.        `MMM`     sMMy         :MMN   :MMm.          +MMh     +MMd 
+                     mMM:     hmm:      oMMy      dMMo         dMM:     hMM+         :MMN    /MMN.         hMM+     `MMM:
+                     :NMN+::/hMMy       mMM:      +MMm         -NMNo::/hMMh          :MMN     +MMm`       .MMM       yMMs
+                      .smMMMMNh/       :MMm       `NMM-         .odMMMMNh+           -MMN      oMMm       sMMs       :MMN
+
+   """
 }
